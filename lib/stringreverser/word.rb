@@ -1,8 +1,8 @@
 
 module Stringreverser
 class Word
-  def self.reversthis
-    self.reverse
+  def self.reversthis(name)
+    name.reverse
   end
 end
 end
